@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tuan Khang
-- 👀 Programming Languages: Java, Javascript
-- 🌱 Frameworks / Platforms: ReactJS, Spring boot
+- 👀 Programming Languages: Python, Javascript, Typescript
+- 🌱 Frameworks / Platforms: ReactJS, NestJS, FastApi
 - 💞️ Database managerment systems: My SQL, MS SQL Server, PostgreSQL
 
 <!---
